@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Shubham126710
+- CS Student
 - 👀 I’m interested in how scripts like blockthespot work
 - 📫 How to reach me: shubham360upadhyay@gmail.com
 
