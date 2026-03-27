@@ -1,25 +1,23 @@
-<!-- Animated Header -->
+<!-- Custom Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shubham%20Upadhyay&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Shubham+Upadhyay;Frontend+Developer+%7C+UI%2FUX+Focused;Building+Thoughtful+Digital+Products" />
 </p>
-
-<h2 align="center">Building thoughtful, user-first digital products</h2>
 
 ---
 
 ## 🚀 About Me  
-I design and build applications that prioritize **clarity, usability, and experience**.  
+I build products that focus on **clarity, usability, and experience** — not just functionality.  
 
-- 🎨 UI/UX-driven frontend development  
-- ⚡ Scalable and modern web architectures  
-- 🧠 Product-focused thinking over feature dumping  
+- 🎨 UI/UX-first development  
+- ⚡ Modern full-stack systems  
+- 🧠 Product-driven thinking  
 
 ---
 
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,mongodb,mysql,supabase,prisma,git,vercel" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,supabase,postgres,prisma,nodejs,git,vercel" />
 </p>
 
 ---
@@ -32,7 +30,7 @@ I design and build applications that prioritize **clarity, usability, and experi
 
 <p align="center">
   <a href="https://odysseus-news.vercel.app/">
-    <img src="https://github.com/Shubham126710/ODYSSEUS/blob/main/public/logo.svg" width="90"/>
+    <img src="https://github.com/Shubham126710/ODYSSEUS/blob/main/public/logo.svg" width="80"/>
   </a>
 </p>
 
@@ -41,12 +39,12 @@ I design and build applications that prioritize **clarity, usability, and experi
 </p>
 
 <p align="center">
-  Aggregates RSS feeds • Extracts full articles • Tracks reading streaks • Save & organize content
+  <code>Next.js</code> • <code>TypeScript</code> • <code>Supabase</code> • <code>PostgreSQL</code> • <code>Framer Motion</code>
 </p>
 
 <p align="center">
-  <a href="https://odysseus-news.vercel.app/"><b>🌐 Live Demo</b></a> •
-  <a href="https://github.com/Shubham126710/ODYSSEUS"><b>📂 GitHub</b></a>
+  <a href="https://odysseus-news.vercel.app/">🌐 Live</a> •
+  <a href="https://github.com/Shubham126710/ODYSSEUS">📂 Code</a>
 </p>
 
 ---
@@ -55,21 +53,21 @@ I design and build applications that prioritize **clarity, usability, and experi
 
 <p align="center">
   <a href="https://athena-cu.vercel.app/">
-    <img src="https://github.com/Shubham126710/athena./blob/main/logo.png" width="90"/>
+    <img src="https://github.com/Shubham126710/athena./blob/main/logo.png" width="80"/>
   </a>
 </p>
 
 <p align="center">
-  <b>A student operating system to manage academics, notes, and performance.</b>
+  <b>A student operating system to manage academics and workflows.</b>
 </p>
 
 <p align="center">
-  Smart dashboard • Notes + PDF system • Syllabus tracking • SGPA calculator
+  <code>React</code> • <code>Vite</code> • <code>Tailwind</code> • <code>Supabase</code>
 </p>
 
 <p align="center">
-  <a href="https://athena-cu.vercel.app/"><b>🌐 Live Demo</b></a> •
-  <a href="https://github.com/Shubham126710/athena."><b>📂 GitHub</b></a>
+  <a href="https://athena-cu.vercel.app/">🌐 Live</a> •
+  <a href="https://github.com/Shubham126710/athena.">📂 Code</a>
 </p>
 
 ---
@@ -78,53 +76,52 @@ I design and build applications that prioritize **clarity, usability, and experi
 
 <p align="center">
   <a href="https://inner-margins.vercel.app/">
-    <img src="https://github.com/Shubham126710/INNER-MARGINS/blob/main/src/app/icon.png" width="90"/>
+    <img src="https://github.com/Shubham126710/INNER-MARGINS/blob/main/src/app/icon.png" width="80"/>
   </a>
 </p>
 
 <p align="center">
-  <b>A minimalist journaling system built for reflection and writing consistency.</b>
+  <b>A minimalist journaling system for reflection and consistency.</b>
 </p>
 
 <p align="center">
-  Distraction-free writing • Writing analytics • Tagging system • Retro UI
+  <code>Next.js</code> • <code>TypeScript</code> • <code>Prisma</code> • <code>PostgreSQL</code>
 </p>
 
 <p align="center">
-  <a href="https://inner-margins.vercel.app/"><b>🌐 Live Demo</b></a> •
-  <a href="https://github.com/Shubham126710/INNER-MARGINS"><b>📂 GitHub</b></a>
+  <a href="https://inner-margins.vercel.app/">🌐 Live</a> •
+  <a href="https://github.com/Shubham126710/INNER-MARGINS">📂 Code</a>
 </p>
-
----
-
-## 🏆 Achievements  
-
-- 🥇 Winner — Innovate-A-Thon 3.0 (BITS Mesra)  
-- 🏁 Finalist — HackSummit Hackathon (Plaksha University)  
-- 🧠 Finalist — MindMaze Case Study Competition (DTU)  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham126710&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubham126710&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham126710&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150"/>
 </p>
 
 ---
 
-## 📫 Connect With Me  
+## 🏆 Achievements  
+
+- 🥇 Innovate-A-Thon 3.0 Winner (BITS Mesra)  
+- 🏁 HackSummit Finalist (Plaksha University)  
+- 🧠 MindMaze Finalist (DTU)  
+
+---
+
+## 📫 Connect  
 
 - 📧 shubham360upadhyay@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/shubham-upadhyay-a12a9428b  
+- 💼 https://www.linkedin.com/in/shubham-upadhyay-a12a9428b  
 
 ---
 
+<!-- Custom Footer -->
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+  <br/>
   <i>Build things that feel good to use.</i>
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p
