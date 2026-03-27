@@ -117,7 +117,6 @@ I design and build applications that prioritize **clarity, usability, and experi
 
 - 📧 shubham360upadhyay@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/shubham-upadhyay-a12a9428b  
-- 🌐 Portfolio: https://your-portfolio-link  
 
 ---
 
