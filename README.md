@@ -1,3 +1,8 @@
+<!-- TOP COLOR BAR -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:4F46E5,100:9333EA&height=6&section=header"/>
+</p>
+
 <!-- HERO -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=34&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Shubham+Upadhyay;Frontend+Developer+%7C+UI%2FUX+Focused;I+build+products+that+feel+right" />
@@ -13,11 +18,13 @@
 
 ## 🚀 About Me  
 
-> I build **clean, thoughtful digital experiences** — not just apps.
+<p align="center">
+I build <b>clean, thoughtful digital experiences</b> — not just apps.
+</p>
 
-- 🎨 UI/UX-first approach  
-- ⚡ Scalable frontend systems  
-- 🧠 Strong product thinking  
+<p align="center">
+🎨 UI/UX-first &nbsp;&nbsp;•&nbsp;&nbsp; ⚡ Scalable Systems &nbsp;&nbsp;•&nbsp;&nbsp; 🧠 Product Thinking
+</p>
 
 ---
 
@@ -31,76 +38,74 @@
 
 ## 📂 Featured Projects  
 
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td align="center" width="50%">
 
 ### 🥇 Odysseus  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shubham126710/ODYSSEUS/main/public/logo.svg" width="80"/>
-</p>
+<img src="https://raw.githubusercontent.com/Shubham126710/ODYSSEUS/main/public/logo.svg" width="70"/>
 
-<p align="center">
+<br><br>
+
 <b>Focused reading system with habit tracking</b>
-</p>
 
-<p align="center">
+<br>
+
 <code>Next.js</code> <code>TS</code> <code>Supabase</code> <code>Postgres</code>
-</p>
 
-<p align="center">
-<a href="https://odysseus-news.vercel.app/">Live</a> • 
-<a href="https://github.com/Shubham126710/ODYSSEUS">Code</a>
-</p>
+<br><br>
+
+<a href="https://odysseus-news.vercel.app/">🌐 Live</a> • 
+<a href="https://github.com/Shubham126710/ODYSSEUS">📂 Code</a>
 
 </td>
 
-<td width="50%">
+<td align="center" width="50%">
 
 ### 📚 Athena  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shubham126710/athena./main/logo.png" width="80"/>
-</p>
+<img src="https://raw.githubusercontent.com/Shubham126710/athena./main/logo.png" width="70"/>
 
-<p align="center">
+<br><br>
+
 <b>Academic productivity hub</b>
-</p>
 
-<p align="center">
+<br>
+
 <code>React</code> <code>Vite</code> <code>Tailwind</code> <code>Supabase</code>
-</p>
 
-<p align="center">
-<a href="https://athena-cu.vercel.app/">Live</a> • 
-<a href="https://github.com/Shubham126710/athena.">Code</a>
-</p>
+<br><br>
+
+<a href="https://athena-cu.vercel.app/">🌐 Live</a> • 
+<a href="https://github.com/Shubham126710/athena.">📂 Code</a>
 
 </td>
 </tr>
+</table>
 
+<br>
+
+<table align="center">
 <tr>
-<td colspan="2">
+<td align="center">
 
 ### ✍️ Inner Margins  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shubham126710/INNER-MARGINS/main/src/app/icon.png" width="80"/>
-</p>
+<img src="https://raw.githubusercontent.com/Shubham126710/INNER-MARGINS/main/src/app/icon.png" width="70"/>
 
-<p align="center">
+<br><br>
+
 <b>Minimal journaling system with analytics</b>
-</p>
 
-<p align="center">
+<br>
+
 <code>Next.js</code> <code>TS</code> <code>Prisma</code> <code>Postgres</code>
-</p>
 
-<p align="center">
-<a href="https://inner-margins.vercel.app/">Live</a> • 
-<a href="https://github.com/Shubham126710/INNER-MARGINS">Code</a>
-</p>
+<br><br>
+
+<a href="https://inner-margins.vercel.app/">🌐 Live</a> • 
+<a href="https://github.com/Shubham126710/INNER-MARGINS">📂 Code</a>
 
 </td>
 </tr>
@@ -111,7 +116,7 @@
 ## 📊 GitHub Activity  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shubham126710&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Shubham126710&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -123,23 +128,27 @@
 
 ## 🏆 Achievements  
 
-- 🥇 Innovate-A-Thon 3.0 Winner  
-- 🏁 HackSummit Finalist  
-- 🧠 MindMaze Finalist  
+<p align="center">
+🥇 Innovate-A-Thon 3.0 Winner &nbsp;&nbsp;•&nbsp;&nbsp; 🏁 HackSummit Finalist &nbsp;&nbsp;•&nbsp;&nbsp; 🧠 MindMaze Finalist
+</p>
 
 ---
 
 ## 📫 Connect  
 
-- 📧 shubham360upadhyay@gmail.com  
-- 💼 https://www.linkedin.com/in/shubham-upadhyay-a12a9428b  
+<p align="center">
+📧 shubham360upadhyay@gmail.com  
+<br>
+💼 <a href="https://www.linkedin.com/in/shubham-upadhyay-a12a9428b">LinkedIn</a>
+</p>
 
 ---
 
+<!-- FOOTER COLOR BAR -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:9333EA&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9333EA,50:4F46E5,100:2563EB&height=6&section=footer"/>
 </p>
 
 <p align="center">
   <b>Build things that feel good to use.</b>
-</p>
+</p
