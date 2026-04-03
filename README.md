@@ -102,6 +102,8 @@
 
 ---
 
+---
+
 ## 📈 Activity & Stats
 
 <p align="center">
@@ -109,8 +111,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham126710&show_icons=true&bg_color=F7DAD6&title_color=C9413C&text_color=C9413C&icon_color=E2554F&border_color=E2554F&border_radius=10" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham126710&layout=compact&bg_color=F7DAD6&title_color=C9413C&text_color=C9413C&icon_color=E2554F&border_color=E2554F&border_radius=10" height="150" alt="Top Languages"/>
+  <a href="https://github.com/Shubham126710">
+    <img src="https://github-readme-stats.vercel.app/api?username=Shubham126710&show_icons=true&bg_color=F7DAD6&title_color=C9413C&text_color=C9413C&icon_color=E2554F&border_color=E2554F&border_radius=10&cache_seconds=3600&v=1" height="150" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/Shubham126710">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham126710&layout=compact&bg_color=F7DAD6&title_color=C9413C&text_color=C9413C&icon_color=E2554F&border_color=E2554F&border_radius=10&cache_seconds=3600&v=1" height="150" alt="Top Languages"/>
+  </a>
 </p>
 
 ---
