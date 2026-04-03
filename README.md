@@ -1,9 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4CFCB,100:E2554F&height=120&section=header&text=SHUBHAM%20UPADHYAY&fontSize=50&fontAlignY=40&animation=twinkling&fontColor=C9413C" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4CFCB,100:E2554F&height=120&section=header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=2500&pause=1000&color=C9413C&center=true&vCenter=true&width=800&lines=Crafting+Digital+Experiences+with+Precision;Frontend+Engineer+%E2%9C%A8;UI%2FUX+Architect;Turning+Complex+Logic+into+Simple+Interfaces" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=55&duration=4000&pause=1000&color=C9413C&center=true&vCenter=true&width=800&height=80&lines=SHUBHAM+UPADHYAY" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=500&size=22&duration=2500&pause=1000&color=E2554F&center=true&vCenter=true&width=800&height=40&lines=Crafting+Digital+Experiences+with+Precision;Frontend+Engineer+%E2%9C%A8;UI%2FUX+Architect;Turning+Complex+Logic+into+Simple+Interfaces" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shubham126710&color=E2554F&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 <p align="center">
@@ -99,12 +105,12 @@
 ## 📈 Activity & Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shubham126710&background=F7DAD6&border=E2554F&stroke=E2554F&ring=E2554F&fire=E2554F&currStreakNum=C9413C&currStreakLabel=C9413C&sideNums=C9413C&sideLabels=C9413C&dates=C9413C&border_radius=10"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham126710&background=F7DAD6&border=E2554F&stroke=E2554F&ring=E2554F&fire=E2554F&currStreakNum=C9413C&currStreakLabel=C9413C&sideNums=C9413C&sideLabels=C9413C&dates=C9413C&border_radius=10" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham126710&show_icons=true&bg_color=F7DAD6&title_color=C9413C&text_color=C9413C&icon_color=E2554F&border_color=E2554F&border_radius=10" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham126710&layout=compact&bg_color=F7DAD6&title_color=C9413C&text_color=C9413C&icon_color=E2554F&border_color=E2554F&border_radius=10" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubham126710&show_icons=true&bg_color=F7DAD6&title_color=C9413C&text_color=C9413C&icon_color=E2554F&border_color=E2554F&border_radius=10" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham126710&layout=compact&bg_color=F7DAD6&title_color=C9413C&text_color=C9413C&icon_color=E2554F&border_color=E2554F&border_radius=10" height="150" alt="Top Languages"/>
 </p>
 
 ---
