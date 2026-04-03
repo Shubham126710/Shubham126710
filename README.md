@@ -1,20 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:9333EA&height=120&section=header&text=SHUBHAM%20UPADHYAY&fontSize=50&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4CFCB,100:E2554F&height=120&section=header&text=SHUBHAM%20UPADHYAY&fontSize=50&fontAlignY=40&animation=twinkling&fontColor=C9413C" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=2500&pause=1000&color=9333EA&center=true&vCenter=true&width=800&lines=Crafting+Digital+Experiences+with+Precision;Frontend+Engineer+%E2%9C%A8;UI%2FUX+Architect;Turning+Complex+Logic+into+Simple+Interfaces" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=2500&pause=1000&color=C9413C&center=true&vCenter=true&width=800&lines=Crafting+Digital+Experiences+with+Precision;Frontend+Engineer+%E2%9C%A8;UI%2FUX+Architect;Turning+Complex+Logic+into+Simple+Interfaces" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham-upadhyay-a12a9428b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-E2554F?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shubham360upadhyay@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-E2554F?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Shubham126710">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-E2554F?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -58,9 +58,9 @@
       <img src="https://raw.githubusercontent.com/Shubham126710/ODYSSEUS/main/public/logo.svg" width="60" height="60" alt="Odysseus Logo"/>
       <br><br>
       <p><i>Focused reading system with habit tracking</i></p>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-F7DAD6?style=flat-square&logo=nextdotjs&logoColor=C9413C&labelColor=F4CFCB&color=F7DAD6" />
+      <img src="https://img.shields.io/badge/TypeScript-F7DAD6?style=flat-square&logo=typescript&logoColor=C9413C&labelColor=F4CFCB&color=F7DAD6" />
+      <img src="https://img.shields.io/badge/Supabase-F7DAD6?style=flat-square&logo=supabase&logoColor=C9413C&labelColor=F4CFCB&color=F7DAD6" />
       <br><br>
       <a href="https://odysseus-news.vercel.app/">🌐 Live Demo</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
       <a href="https://github.com/Shubham126710/ODYSSEUS">📂 Source Code</a>
@@ -70,9 +70,9 @@
       <img src="https://raw.githubusercontent.com/Shubham126710/athena./main/logo.png" width="60" height="60" alt="Athena Logo"/>
       <br><br>
       <p><i>Academic productivity hub</i></p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E" />
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-F7DAD6?style=flat-square&logo=react&logoColor=C9413C&labelColor=F4CFCB&color=F7DAD6" />
+      <img src="https://img.shields.io/badge/Vite-F7DAD6?style=flat-square&logo=vite&logoColor=C9413C&labelColor=F4CFCB&color=F7DAD6" />
+      <img src="https://img.shields.io/badge/Tailwind-F7DAD6?style=flat-square&logo=tailwind-css&logoColor=C9413C&labelColor=F4CFCB&color=F7DAD6" />
       <br><br>
       <a href="https://athena-cu.vercel.app/">🌐 Live Demo</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
       <a href="https://github.com/Shubham126710/athena.">📂 Source Code</a>
@@ -84,9 +84,9 @@
       <img src="https://raw.githubusercontent.com/Shubham126710/INNER-MARGINS/main/src/app/icon.png" width="60" height="60" alt="Inner Margins Logo"/>
       <br><br>
       <p><i>Minimal journaling system with analytics</i></p>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" />
-      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postgres-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-F7DAD6?style=flat-square&logo=nextdotjs&logoColor=C9413C&labelColor=F4CFCB&color=F7DAD6" />
+      <img src="https://img.shields.io/badge/Prisma-F7DAD6?style=flat-square&logo=prisma&logoColor=C9413C&labelColor=F4CFCB&color=F7DAD6" />
+      <img src="https://img.shields.io/badge/Postgres-F7DAD6?style=flat-square&logo=postgresql&logoColor=C9413C&labelColor=F4CFCB&color=F7DAD6" />
       <br><br>
       <a href="https://inner-margins.vercel.app/">🌐 Live Demo</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
       <a href="https://github.com/Shubham126710/INNER-MARGINS">📂 Source Code</a>
@@ -99,12 +99,12 @@
 ## 📈 Activity & Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shubham126710&theme=shades-of-purple&hide_border=true&border_radius=10&background=1E1E2E"/>
+  <img src="https://streak-stats.demolab.com?user=Shubham126710&background=F7DAD6&border=E2554F&stroke=E2554F&ring=E2554F&fire=E2554F&currStreakNum=C9413C&currStreakLabel=C9413C&sideNums=C9413C&sideLabels=C9413C&dates=C9413C&border_radius=10"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham126710&show_icons=true&theme=shades-of-purple&hide_border=true&border_radius=10&background=1E1E2E" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham126710&layout=compact&theme=shades-of-purple&hide_border=true&border_radius=10&background=1E1E2E" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubham126710&show_icons=true&bg_color=F7DAD6&title_color=C9413C&text_color=C9413C&icon_color=E2554F&border_color=E2554F&border_radius=10" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham126710&layout=compact&bg_color=F7DAD6&title_color=C9413C&text_color=C9413C&icon_color=E2554F&border_color=E2554F&border_radius=10" height="150"/>
 </p>
 
 ---
@@ -112,15 +112,15 @@
 ## 🏆 Milestones
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🥇_Innovate--A--Thon_3.0-Winner-FFD700?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🏁_HackSummit-Finalist-C0C0C0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🧠_MindMaze-Finalist-CD7F32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🥇_Innovate--A--Thon_3.0-Winner-E2554F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🏁_HackSummit-Finalist-C9413C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧠_MindMaze-Finalist-E2554F?style=for-the-badge" />
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:2563EB&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E2554F,100:F4CFCB&height=100&section=footer" />
 </p>
 <p align="center">
   <b>Built with ❤️ to feel good to use.</b>
