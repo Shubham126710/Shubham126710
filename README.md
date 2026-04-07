@@ -13,6 +13,10 @@
 </p>
 
 <p align="center">
+  <a href="https://shubham-upadhyay.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-C9413C?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <br><br>
   <a href="https://www.linkedin.com/in/shubham-upadhyay-a12a9428b">
     <img src="https://img.shields.io/badge/LinkedIn-E2554F?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -32,6 +36,8 @@
   I specialize in building <b>clean, performant, and accessible</b> web applications. My philosophy is simple: <br>
   <i>"Code should be as beautiful as the interface it powers."</i>
 </p>
+
+<br>
 
 <div align="center">
   <table>
@@ -102,19 +108,15 @@
 
 ---
 
----
-
----
-
 ## 📈 Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham126710&background=F7DAD6&border=E2554F&stroke=E2554F&ring=E2554F&fire=E2554F&currStreakNum=C9413C&currStreakLabel=C9413C&sideNums=C9413C&sideLabels=C9413C&dates=C9413C&border_radius=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham126710&background=F7DAD6&border=E2554F&stroke=E2554F&ring=E2554F&fire=E2554F&currStreakNum=C9413C&currStreakLabel=C9413C&sideNums=C9413C&sideLabels=C9413C&dates=C9413C&border_radius=10" alt="Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham126710&show_icons=true&bg_color=F7DAD6&title_color=C9413C&text_color=C9413C&icon_color=E2554F&border_color=E2554F&border_radius=10&cache_seconds=3600" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham126710&layout=compact&bg_color=F7DAD6&title_color=C9413C&text_color=C9413C&icon_color=E2554F&border_color=E2554F&border_radius=10&cache_seconds=3600" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubham126710&show_icons=true&bg_color=F7DAD6&title_color=C9413C&text_color=C9413C&icon_color=E2554F&border_color=E2554F&border_radius=10&cache_seconds=3600" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham126710&layout=compact&bg_color=F7DAD6&title_color=C9413C&text_color=C9413C&icon_color=E2554F&border_color=E2554F&border_radius=10&cache_seconds=3600" alt="Top Languages"/>
 </p>
 
 ---
@@ -122,9 +124,9 @@
 ## 🏆 Milestones
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🥇_Innovate--A--Thon_3.0-Winner-E2554F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🏁_HackSummit-Finalist-C9413C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🧠_MindMaze-Finalist-E2554F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🥇_Innovate--A--Thon_3.0-Winner-E2554F?style=for-the-badge" alt="Hackathon Winner"/>
+  <img src="https://img.shields.io/badge/🏁_HackSummit-Finalist-C9413C?style=for-the-badge" alt="HackSummit Finalist"/>
+  <img src="https://img.shields.io/badge/🧠_MindMaze-Finalist-E2554F?style=for-the-badge" alt="MindMaze Finalist"/>
 </div>
 
 <br>
