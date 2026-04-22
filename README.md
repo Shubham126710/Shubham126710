@@ -105,7 +105,7 @@
     </td>
     <td align="center" width="50%">
       <h3>💖 Aphrodite</h3>
-      <img src="https://raw.githubusercontent.com/Shubham126710/aphrodite/main/public/logo.png" width="75" alt="Aphrodite Logo"/>
+      <img src="https://raw.githubusercontent.com/Shubham126710/aphrodite/main/public/logo.png" width="110" alt="Aphrodite Logo"/>
       <br><br>
       <p><i>Next-gen dating infused with the FLAMES algorithm</i></p>
       <img src="https://img.shields.io/badge/React-F1ECF8?style=flat-square&logo=react&logoColor=4E426B&labelColor=E6DFF1&color=F1ECF8" />
@@ -117,14 +117,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## 💭 Dynamic Inspiration
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&hide_border=true&bg_color=F1ECF8&text_color=4E426B&quote_color=7A6C9D&author_color=7A6C9D" alt="Random Quote" />
-</p>
 
 ---
 
@@ -150,6 +142,10 @@
 </div>
 
 <br>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&hide_border=true&bg_color=F1ECF8&text_color=4E426B&quote_color=7A6C9D&author_color=7A6C9D" alt="Random Quote" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A6C9D,100:E6DFF1&height=100&section=footer" />
