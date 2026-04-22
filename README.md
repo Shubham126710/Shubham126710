@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=55&duration=4000&pause=1000&color=4E426B&center=true&vCenter=true&width=800&height=80&lines=SHUBHAM+UPADHYAY" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=55&duration=4000&pause=1000&color=4E426B&center=true&vCenter=true&width=800&height=80&lines=SHUBHAM+UPADHYAY" />
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=500&size=22&duration=2500&pause=1000&color=7A6C9D&center=true&vCenter=true&width=800&height=40&lines=Crafting+Digital+Experiences+with+Precision;Frontend+Engineer+%E2%9C%A8;UI%2FUX+Architect;Turning+Complex+Logic+into+Simple+Interfaces" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=400&size=22&duration=2500&pause=1000&color=7A6C9D&center=true&vCenter=true&width=800&height=40&lines=Crafting+Digital+Experiences+with+Precision;Frontend+Engineer+%E2%9C%A8;UI%2FUX+Architect;Turning+Complex+Logic+into+Simple+Interfaces" />
 </p>
 
 <p align="center">
@@ -112,7 +112,7 @@
       <img src="https://img.shields.io/badge/TypeScript-F1ECF8?style=flat-square&logo=typescript&logoColor=4E426B&labelColor=E6DFF1&color=F1ECF8" />
       <img src="https://img.shields.io/badge/Tailwind-F1ECF8?style=flat-square&logo=tailwind-css&logoColor=4E426B&labelColor=E6DFF1&color=F1ECF8" />
       <br><br>
-      <a href="https://github.com/Shubham126710/aphrodite">🌐 Live Demo</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+      <a href="https://aphrodite-dating.vercel.app/">🌐 Live Demo</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
       <a href="https://github.com/Shubham126710/aphrodite">📂 Source Code</a>
     </td>
   </tr>
