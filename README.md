@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=DM+Serif+Display&weight=400&size=60&duration=4000&pause=1000&color=4E426B&center=true&vCenter=true&width=800&height=80&lines=SHUBHAM+UPADHYAY" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=800&size=55&duration=4000&pause=1000&color=4E426B&center=true&vCenter=true&width=800&height=80&lines=SHUBHAM+UPADHYAY" />
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=500&size=22&duration=2500&pause=1000&color=7A6C9D&center=true&vCenter=true&width=800&height=40&lines=Crafting+Digital+Experiences+with+Precision;Frontend+Engineer+%E2%9C%A8;UI%2FUX+Architect;Turning+Complex+Logic+into+Simple+Interfaces" />
 </p>
