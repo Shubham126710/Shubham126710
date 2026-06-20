@@ -66,8 +66,19 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
+      <h3>🎬 Artemis</h3>
+      <img src="https://raw.githubusercontent.com/Shubham126710/Artemis/main/public/favicon.ico" height="60" alt="Artemis Favicon"/>
+      <br><br>
+      <p><i>Premium cinematic ticketing & reservation platform</i></p>
+      <img src="https://img.shields.io/badge/Next.js-F1ECF8?style=flat-square&logo=nextdotjs&logoColor=4E426B&labelColor=E6DFF1&color=F1ECF8" />
+      <img src="https://img.shields.io/badge/Prisma-F1ECF8?style=flat-square&logo=prisma&logoColor=4E426B&labelColor=E6DFF1&color=F1ECF8" />
+      <img src="https://img.shields.io/badge/Tailwind-F1ECF8?style=flat-square&logo=tailwind-css&logoColor=4E426B&labelColor=E6DFF1&color=F1ECF8" />
+      <br><br>
+      <a href="https://github.com/Shubham126710/Artemis">📂 Source Code</a>
+    </td>
+    <td align="center" width="50%">
       <h3>🥇 Odysseus</h3>
-      <img src="https://raw.githubusercontent.com/Shubham126710/ODYSSEUS/main/public/logo.svg" width="60" alt="Odysseus Logo"/>
+      <img src="https://raw.githubusercontent.com/Shubham126710/ODYSSEUS/main/public/logo.svg" height="60" alt="Odysseus Logo"/>
       <br><br>
       <p><i>Focused reading system with habit tracking</i></p>
       <img src="https://img.shields.io/badge/Next.js-F1ECF8?style=flat-square&logo=nextdotjs&logoColor=4E426B&labelColor=E6DFF1&color=F1ECF8" />
@@ -77,9 +88,11 @@
       <a href="https://odysseus-news.vercel.app/">🌐 Live Demo</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
       <a href="https://github.com/Shubham126710/ODYSSEUS">📂 Source Code</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <h3>📚 Athena</h3>
-      <img src="https://raw.githubusercontent.com/Shubham126710/athena./main/logo.png" width="60" alt="Athena Logo"/>
+      <img src="https://raw.githubusercontent.com/Shubham126710/athena./main/logo.png" height="60" alt="Athena Logo"/>
       <br><br>
       <p><i>Academic productivity hub</i></p>
       <img src="https://img.shields.io/badge/React-F1ECF8?style=flat-square&logo=react&logoColor=4E426B&labelColor=E6DFF1&color=F1ECF8" />
@@ -89,11 +102,9 @@
       <a href="https://athena-cu.vercel.app/">🌐 Live Demo</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
       <a href="https://github.com/Shubham126710/athena.">📂 Source Code</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <h3>✍️ Inner Margins</h3>
-      <img src="https://raw.githubusercontent.com/Shubham126710/INNER-MARGINS/main/src/app/icon.png" width="60" alt="Inner Margins Logo"/>
+      <img src="https://raw.githubusercontent.com/Shubham126710/INNER-MARGINS/main/src/app/icon.png" height="60" alt="Inner Margins Logo"/>
       <br><br>
       <p><i>Minimal journaling system with analytics</i></p>
       <img src="https://img.shields.io/badge/Next.js-F1ECF8?style=flat-square&logo=nextdotjs&logoColor=4E426B&labelColor=E6DFF1&color=F1ECF8" />
@@ -103,9 +114,11 @@
       <a href="https://inner-margins.vercel.app/">🌐 Live Demo</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
       <a href="https://github.com/Shubham126710/INNER-MARGINS">📂 Source Code</a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <h3>💖 Aphrodite</h3>
-      <img src="https://raw.githubusercontent.com/Shubham126710/aphrodite/main/public/logo.png" width="110" alt="Aphrodite Logo"/>
+      <img src="https://raw.githubusercontent.com/Shubham126710/aphrodite/main/public/logo.png" height="60" alt="Aphrodite Logo"/>
       <br><br>
       <p><i>Next-gen dating infused with the FLAMES algorithm</i></p>
       <img src="https://img.shields.io/badge/React-F1ECF8?style=flat-square&logo=react&logoColor=4E426B&labelColor=E6DFF1&color=F1ECF8" />
@@ -115,12 +128,27 @@
       <a href="https://github.com/Shubham126710/aphrodite">🌐 Live Demo</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
       <a href="https://github.com/Shubham126710/aphrodite">📂 Source Code</a>
     </td>
+    <td align="center" width="50%">
+      <h3>🏎️ ApexGrid OS</h3>
+      <img src="https://raw.githubusercontent.com/Shubham126710/ApexGrid/main/frontend/public/logo.png" height="60" alt="ApexGrid Logo"/>
+      <br><br>
+      <p><i>Logistics & telemetry platform for motorsport</i></p>
+      <img src="https://img.shields.io/badge/React-F1ECF8?style=flat-square&logo=react&logoColor=4E426B&labelColor=E6DFF1&color=F1ECF8" />
+      <img src="https://img.shields.io/badge/Node.js-F1ECF8?style=flat-square&logo=node.js&logoColor=4E426B&labelColor=E6DFF1&color=F1ECF8" />
+      <img src="https://img.shields.io/badge/Postgres-F1ECF8?style=flat-square&logo=postgresql&logoColor=4E426B&labelColor=E6DFF1&color=F1ECF8" />
+      <br><br>
+      <a href="https://github.com/Shubham126710/ApexGrid">📂 Source Code</a>
+    </td>
   </tr>
 </table>
 
 ---
 
 ## 📈 Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham126710&bg_color=F1ECF8&color=7A6C9D&line=7A6C9D&point=4E426B&area=true&hide_border=true" alt="Activity Graph" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham126710&background=F1ECF8&border=7A6C9D&stroke=7A6C9D&ring=7A6C9D&fire=7A6C9D&currStreakNum=4E426B&currStreakLabel=4E426B&sideNums=4E426B&sideLabels=4E426B&dates=4E426B&border_radius=10" alt="Streak Stats"/>
