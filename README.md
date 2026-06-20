@@ -67,13 +67,14 @@
   <tr>
     <td align="center" width="50%">
       <h3>🎬 Artemis</h3>
-      <img src="https://raw.githubusercontent.com/Shubham126710/Artemis/main/public/favicon.ico" height="60" alt="Artemis Favicon"/>
+      <img src="https://raw.githubusercontent.com/Shubham126710/Artemis/main/public/artemis-favicon.png" height="60" alt="Artemis Favicon"/>
       <br><br>
       <p><i>Premium cinematic ticketing & reservation platform</i></p>
       <img src="https://img.shields.io/badge/Next.js-F1ECF8?style=flat-square&logo=nextdotjs&logoColor=4E426B&labelColor=E6DFF1&color=F1ECF8" />
       <img src="https://img.shields.io/badge/Prisma-F1ECF8?style=flat-square&logo=prisma&logoColor=4E426B&labelColor=E6DFF1&color=F1ECF8" />
       <img src="https://img.shields.io/badge/Tailwind-F1ECF8?style=flat-square&logo=tailwind-css&logoColor=4E426B&labelColor=E6DFF1&color=F1ECF8" />
       <br><br>
+      <a href="https://artemis-movies.vercel.app/">🌐 Live Demo</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
       <a href="https://github.com/Shubham126710/Artemis">📂 Source Code</a>
     </td>
     <td align="center" width="50%">
