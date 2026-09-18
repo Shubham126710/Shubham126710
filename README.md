@@ -80,7 +80,7 @@
       <a href="https://github.com/Shubham126710/Chronos">📂 Source Code</a>
     </td>
     <td align="center" width="50%">
-      <h3>🥇 Odysseus</h3>
+      <h3>🧭 Odysseus</h3>
       <img src="https://raw.githubusercontent.com/Shubham126710/ODYSSEUS/main/public/logo.svg" height="60" alt="Odysseus Logo"/>
       <br><br>
       <p><i>Focused reading system with habit tracking</i></p>
