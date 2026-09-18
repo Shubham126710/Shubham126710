@@ -68,7 +68,7 @@
   <tr>
     <td align="center" width="50%">
       <h3>⏳ Chronos</h3>
-      <img src="https://raw.githubusercontent.com/Shubham126710/Chronos/main/public/logo.svg" height="60" alt="Chronos Logo"/>
+      <img src="https://raw.githubusercontent.com/Shubham126710/Chronos/main/public/logo-white.svg" height="85" alt="Chronos Logo"/>
       <br><br>
       <p><i>AI-Powered Productivity Operating System</i></p>
       <img src="https://img.shields.io/badge/Next.js-F1ECF8?style=flat-square&logo=nextdotjs&logoColor=4E426B&labelColor=E6DFF1&color=F1ECF8" />
