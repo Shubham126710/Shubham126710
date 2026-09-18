@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E6DFF1,100:7A6C9D&height=120&section=header" />
 </p>
 
+<!-- SEO and Screen Reader Fallback: Shubham Upadhyay | Frontend Engineer | UI/UX Architect | React, Next.js, TypeScript -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=800&size=45&duration=4000&pause=1000&color=4E426B&center=true&vCenter=true&width=900&height=80&lines=SHUBHAM+UPADHYAY" />
   <br>
@@ -66,16 +67,16 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <h3>🎬 Artemis</h3>
-      <img src="https://raw.githubusercontent.com/Shubham126710/Artemis/main/public/artemis-favicon.png" height="60" alt="Artemis Favicon"/>
-      <br><br>
-      <p><i>Premium cinematic ticketing & reservation platform</i></p>
+      <h3>⏳ Chronos</h3>
+      <br>
+      <p><i>AI-Powered Productivity Operating System</i></p>
       <img src="https://img.shields.io/badge/Next.js-F1ECF8?style=flat-square&logo=nextdotjs&logoColor=4E426B&labelColor=E6DFF1&color=F1ECF8" />
-      <img src="https://img.shields.io/badge/Prisma-F1ECF8?style=flat-square&logo=prisma&logoColor=4E426B&labelColor=E6DFF1&color=F1ECF8" />
       <img src="https://img.shields.io/badge/Tailwind-F1ECF8?style=flat-square&logo=tailwind-css&logoColor=4E426B&labelColor=E6DFF1&color=F1ECF8" />
+      <img src="https://img.shields.io/badge/Prisma-F1ECF8?style=flat-square&logo=prisma&logoColor=4E426B&labelColor=E6DFF1&color=F1ECF8" />
+      <img src="https://img.shields.io/badge/Gemini-F1ECF8?style=flat-square&logo=google&logoColor=4E426B&labelColor=E6DFF1&color=F1ECF8" />
       <br><br>
-      <a href="https://artemis-movies.vercel.app/">🌐 Live Demo</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
-      <a href="https://github.com/Shubham126710/Artemis">📂 Source Code</a>
+      <a href="https://chronos-ai-os.vercel.app/">🌐 Live Demo</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+      <a href="https://github.com/Shubham126710/Chronos">📂 Source Code</a>
     </td>
     <td align="center" width="50%">
       <h3>🥇 Odysseus</h3>
@@ -104,6 +105,20 @@
       <a href="https://github.com/Shubham126710/athena.">📂 Source Code</a>
     </td>
     <td align="center" width="50%">
+      <h3>🎬 Artemis</h3>
+      <img src="https://raw.githubusercontent.com/Shubham126710/Artemis/main/public/artemis-favicon.png" height="60" alt="Artemis Favicon"/>
+      <br><br>
+      <p><i>Premium cinematic ticketing & reservation platform</i></p>
+      <img src="https://img.shields.io/badge/Next.js-F1ECF8?style=flat-square&logo=nextdotjs&logoColor=4E426B&labelColor=E6DFF1&color=F1ECF8" />
+      <img src="https://img.shields.io/badge/Prisma-F1ECF8?style=flat-square&logo=prisma&logoColor=4E426B&labelColor=E6DFF1&color=F1ECF8" />
+      <img src="https://img.shields.io/badge/Tailwind-F1ECF8?style=flat-square&logo=tailwind-css&logoColor=4E426B&labelColor=E6DFF1&color=F1ECF8" />
+      <br><br>
+      <a href="https://artemis-movies.vercel.app/">🌐 Live Demo</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+      <a href="https://github.com/Shubham126710/Artemis">📂 Source Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <h3>✍️ Inner Margins</h3>
       <img src="https://raw.githubusercontent.com/Shubham126710/INNER-MARGINS/main/src/app/icon.png" height="60" alt="Inner Margins Logo"/>
       <br><br>
@@ -115,8 +130,6 @@
       <a href="https://inner-margins.vercel.app/">🌐 Live Demo</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
       <a href="https://github.com/Shubham126710/INNER-MARGINS">📂 Source Code</a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <h3>💖 Aphrodite</h3>
       <img src="https://raw.githubusercontent.com/Shubham126710/aphrodite/main/public/logo.png" height="60" alt="Aphrodite Logo"/>
@@ -129,7 +142,9 @@
       <a href="https://github.com/Shubham126710/aphrodite">🌐 Live Demo</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
       <a href="https://github.com/Shubham126710/aphrodite">📂 Source Code</a>
     </td>
-    <td align="center" width="50%">
+  </tr>
+  <tr>
+    <td align="center" width="50%" colspan="2">
       <h3>🏎️ ApexGrid OS</h3>
       <img src="https://raw.githubusercontent.com/Shubham126710/ApexGrid/main/frontend/public/logo.png" height="60" alt="ApexGrid Logo"/>
       <br><br>
